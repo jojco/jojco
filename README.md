@@ -8,7 +8,7 @@
 #### ... 🐧 Linux 🐚 Bash 🐳 Docker 🦠 Microservices
 #### ... 📑 REST🔌Websocket 🗃️ Apache Kafka 🚄 Protobuf
 #### ... 🖥️ Nginx 🔐 Ory.sh 📡 Sewio
-#### ... currently learning 🦀 Rust
+#### ... currently learning 🦀 Rust 🦠 Event driven - Microservice architecture
 #
 ## I'm working as artist on 🫀UI/🧠UX 🛸 2D/3D Graphic/Modelling/Animation/Rendering
 ### ... using 🦿 Blender ✒️ Affinity Designer 🖌️Affinity Photo
