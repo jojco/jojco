@@ -6,7 +6,7 @@
 ### I’m programming with 🎭 Javascript/Typescript, 🐍 Python 🦴 HTML 💄 CSS 🫦 SASS
 ### I’m working as software developer with 🐲 Vue.js 🦚 Nuxt.js 🐯 Nest.js 🐉 FastAPI ...
 #### ... 🐧 Linux 🐚 Bash 🐳 Docker 🦠 Microservices
-#### ... 📑 REST🔌Websocket 🗃️ Apache Kafka 
+#### ... 📑 REST🔌Websocket 🗃️ Apache Kafka 🚄 Protobuf
 #### ... 🖥️ Nginx 🔐 Ory.sh 📡 Sewio
 #### ... currently learning 🦀 Rust
 #
