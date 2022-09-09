@@ -1,20 +1,34 @@
 # 👋 Hi, I’m @jojco
 - I'm **Fullstack software developer**, more focusing on frontend ...
 - Working fulltime in slovak company which provide solutions in the field of ***logistics, production automation, planning and optimization*** in many industries ...
-- Primary working on ***DigitalTwin*** SW/HW solution ...
-#
-### I’m programming with 🎭 Javascript/Typescript, 🐍 Python 🦴 HTML 💄 CSS 🫦 SASS
-### I’m working as software developer with 🐲 Vue.js 🦚 Nuxt.js 🐯 Nest.js 🐉 FastAPI ...
-#### ... 🐧 Linux 🐚 Bash 🐳 Docker 🦠 Microservices 🪟 WSL2
-#### ... 📑 REST🔌Websocket 🗃️ Apache Kafka 🚄 Protobuf 📑 SQL
-#### ... 🖥️ Nginx 🔐 Ory.sh 📡 Sewio
-#### ... currently learning 🦀 Rust 🦠 Event driven - Microservice architecture
-#
-## I'm working as artist on 🫀UI/🧠UX 🛸 2D/3D Graphic/Modelling/Animation/Rendering
-### ... using 🦿 Blender ✒️ Affinity Designer 🖌️Affinity Photo
-#
-#### I’m in love 💞️ with 🧑‍ Art 🎹 Music 🏛️History 🚵‍Bike 🤖Tech 👩‍🚀Monica 😁 ...
 - In my free time working on small ***Games*** and ***Web Applications*** ...
+#
+### I’m programming with ...
+- 🎭 Javascript/Typescript
+- 🦴 HTML 💄 CSS 🫦 SASS
+- 🐍 Python, 🐚 Bash, 📑 SQL
+
+### I’m working with ...
+- 🐲 Vue.js , 🦚 Nuxt.js , 🐯 Nest.js
+- 🐧 Linux , 🐳 Docker , 🪟 WSL2
+- 📑 REST, 🔌 Websockets
+- 🗃️ Apache Kafka, 🚄 Protobuf
+- 🕹️ Three.js
+- 🐉 FastAPI
+
+### Currently learning 🦀 Rust ...
+#
+### I'm working as artist with ...
+- 🫀 UI / 🧠 UX 
+- 🖼️ 2D Graphic/Animation
+- 🛸 3D Modelling/Animation/Rendering
+#### I'm using ...
+- 🦿 Blender 
+- ✒️ Affinity Designer 🖌️Affinity Photo
+#
+#### I’m in love 💞️ with ...
+- 🧑‍ Art , 🎹 Music, 🏛️ History
+-  🚵‍Bike 🤖Tech 👩‍🚀Monica 😁 ...
 
 ####  You can reach me 📫*hi@jojco.me* or 📫*gmjanecek@gmail.com* ...
 
