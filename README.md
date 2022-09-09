@@ -14,7 +14,6 @@
 - 🕹️ Three.js
 - 🐉 FastAPI
 
-### Currently learning 🦀 Rust ...
 #
 ### I'm working as artist with ...
 - 🫀 UI / 🧠 UX 
