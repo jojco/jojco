@@ -4,15 +4,15 @@
 - In my free time working on small ***Games*** and ***Web Applications*** ...
 #
 ### I’m programming with ...
-- 🎭 Javascript/Typescript
+- 🎭 Javascript / Typescript
 - 🦴 HTML 💄 CSS 🫦 SASS
-- 🐍 Python, 🐚 Bash, 📑 SQL
+- 🐍 Python 🐚 Bash 📑 SQL
 
 ### I’m working with ...
-- 🐲 Vue.js , 🦚 Nuxt.js , 🐯 Nest.js
-- 🐧 Linux , 🐳 Docker , 🪟 WSL2
-- 📑 REST, 🔌 Websockets
-- 🗃️ Apache Kafka, 🚄 Protobuf
+- 🐲 Vue.js 🦚 Nuxt.js 🐯 Nest.js
+- 🐧 Linux 🐳 Docker 🪟 WSL2
+- 📑 REST 🔌 Websockets
+- 🗃️ Apache Kafka 🚄 Protobuf
 - 🕹️ Three.js
 - 🐉 FastAPI
 
@@ -20,15 +20,15 @@
 #
 ### I'm working as artist with ...
 - 🫀 UI / 🧠 UX 
-- 🖼️ 2D Graphic/Animation
-- 🛸 3D Modelling/Animation/Rendering
+- 🖼️ 2D / 3D Graphic
+- 🎞️ Animation 🛸 Rendering
 #### I'm using ...
 - 🦿 Blender 
 - ✒️ Affinity Designer 🖌️Affinity Photo
 #
 #### I’m in love 💞️ with ...
-- 🧑‍ Art , 🎹 Music, 🏛️ History
--  🚵‍Bike 🤖Tech 👩‍🚀Monica 😁 ...
+- 🧑‍ Art 🎹 Music 🏛️ History
+- 🚵‍Bike 🤖Tech 👩‍🚀Monica 😁 ...
 
 ####  You can reach me 📫*hi@jojco.me* or 📫*gmjanecek@gmail.com* ...
 
