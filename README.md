@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Jozef Janeček @jojco
 > I'm **Fullstack software developer**, more focusing on frontend. Working fulltime in slovak company which provide solutions in the field of ***logistics, production automation, planning and optimization*** in many industries. In my free time working on small ***Games*** and ***Web Applications***.
-#
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jojco)](https://github.com/jojco/github-readme-stats)
+
 ### I’m programming with ...
 - 🎭 Javascript / Typescript
 - 🦴 HTML 💄 CSS 🫦 SASS
