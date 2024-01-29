@@ -14,7 +14,7 @@
 - 🐍 Python 🐉 FastAPI
 - 🗃️ Apache Kafka 🚄 Protobuf
 
-####  You can reach me 📫*hi@jojco.me* or 📫*gmjanecek@gmail.com* ...
+####  You can reach me 📫*gmjanecek@gmail.com* ...
 
 <!---
 weewyx/weewyx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
