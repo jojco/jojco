@@ -3,13 +3,14 @@
 ## Working with ...
 - 🎭 Javascript / Typescript
 - 🦴 HTML / 💄 CSS / 🔷 Tailwindcss
-- 🐉 VueJs/Nuxt3 🐯 Nest.js 🕹️ Three.js
-- 🕸️ GraphQL 📑 REST 🔌 Websocket
-- 🐧 Linux 🐳 Docker 🐚 Bash 🪟 WSL2
+- 🐉 VueJs/Nuxt3 🔵 React/NextJs 🐯 NestJs 🌎 ThreeJs
+- 📑 REST 🔌 Websocket 🕸️ GraphQL
+- 🐧 Linux 🐚 Bash 🐳 Docker 🪟 WSL2
 - 🦿 Blender ✒️ Affinity Designer 🖌️Affinity Photo
 
 ### .. also working with ...
 
+- Unreal / Unity / Godot engine
 - 🐍 Python 🐉 FastAPI
 - 🗃️ Apache Kafka 🚄 Protobuf
 
