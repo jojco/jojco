@@ -1,18 +1,18 @@
 # 👋 Hi, I’m Jozef Janeček @jojco
 
 ## Working with ...
-- 🎭 Javascript / Typescript
-- 🦴 HTML / 💄 CSS / 🔷 Tailwindcss
-- 🐉 VueJs/Nuxt3 🔵 React/NextJs 🐯 NestJs 🌎 ThreeJs
-- 📑 REST 🔌 Websocket 🕸️ GraphQL
-- 🐧 Linux 🐚 Bash 🐳 Docker 🪟 WSL2
-- 🦿 Blender ✒️ Affinity Designer 🖌️Affinity Photo
+- 🎭 Javascript/Typescript (VueJs/Nuxt3, React/NextJs, NestJs, ThreeJs)
+- 🦴 HTML, 💄 CSS/Tailwindcss
+- 🐍 Python (FastApi, Flask)
+- 🐧 Linux/Windows, WSL2, Bash, Docker
+- 🔌 REST, Websocket, GraphQL, Apache Kafka, Google Protobuf, ...
 
 ### .. also working with ...
 
-- Unreal / Unity / Godot engine
-- 🐍 Python 🐉 FastAPI
-- 🗃️ Apache Kafka 🚄 Protobuf
+- 🎮 Unreal / Unity / Godot engine
+- 🐵 Blender
+- ✒️ Affinity Designer / Photo, Figma / Penpot
+- ... 
 
 ####  You can reach me 📫*gmjanecek@gmail.com* ...
 
