@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Jozef Janeček @jojco
 
-## Main stack ...
+## Working with ...
 - 🎭 Javascript / Typescript
-- 🦴 HTML 💄 CSS / SASS
-- 🐲 Vue3 🦚 Nuxt3 🐯 Nest.js 🕹️ Three.js
-- 🕸️ GraphQL 📑 REST 🔌 Websockets 
+- 🦴 HTML / 💄 CSS / 🔷 Tailwindcss
+- 🐉 VueJs/Nuxt3 🐯 Nest.js 🕹️ Three.js
+- 🕸️ GraphQL 📑 REST 🔌 Websocket
 - 🐧 Linux 🐳 Docker 🐚 Bash 🪟 WSL2
 - 🦿 Blender ✒️ Affinity Designer 🖌️Affinity Photo
 
